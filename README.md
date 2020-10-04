@@ -1,1 +1,1 @@
-# face-recognition-attendance using python
+# face-recognition-attendance system using python
